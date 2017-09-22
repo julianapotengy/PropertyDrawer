@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyDrawerAV2", "PropertyDrawerAV2.csproj", "{910E85E7-D4EA-84AF-2E26-83A0EFABD70C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyDrawerAV2.Editor", "PropertyDrawerAV2.Editor.csproj", "{F3BC2A00-1A4F-0EC4-5310-3772AE8FB8CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910E85E7-D4EA-84AF-2E26-83A0EFABD70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910E85E7-D4EA-84AF-2E26-83A0EFABD70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910E85E7-D4EA-84AF-2E26-83A0EFABD70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910E85E7-D4EA-84AF-2E26-83A0EFABD70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BC2A00-1A4F-0EC4-5310-3772AE8FB8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BC2A00-1A4F-0EC4-5310-3772AE8FB8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BC2A00-1A4F-0EC4-5310-3772AE8FB8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BC2A00-1A4F-0EC4-5310-3772AE8FB8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
